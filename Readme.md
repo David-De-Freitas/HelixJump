@@ -1,6 +1,6 @@
 # Helix Jump
 
-### Remake of the Vodoo sucess helix jump made with Unity3D in 3Hours
+### Remake of the Vodoo success helix jump made with Unity3D in 3Hours
 
 Here the objective was to make a fast prototype to test mechanics of gameplay.
 
