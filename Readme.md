@@ -8,3 +8,5 @@ Here the objective was to make a fast prototype to test mechanics of gameplay.
 - Player break the next floor if the combo in bigger than 3
 - Score is added for each floor pass
 - Infinite levels with random generation
+
+![image](https://i.imgur.com/TKCWdMj.png)
